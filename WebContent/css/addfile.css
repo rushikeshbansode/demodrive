@@ -1,0 +1,980 @@
+@media (max-width: 575.98px) {
+	.topheader
+							{
+								background-color:#333544;
+								height:60px;
+								width:100%;
+							}
+
+			 #homebtn
+							{
+								background-color:#333544;
+								color:#c0c0c0;
+								border:1px solid #c0c0c0;
+								border-radius:3px;
+								height:35px;
+								width:90px;
+								float:right;
+								margin-right:40px;
+								text-align:center;
+								margin-top:10px;
+								text-decoration:none;
+
+							}
+
+							#homebtn a
+											{
+												color:#c0c0c0;
+												text-decoration:none;
+											}
+
+							#homebtn :hover
+											{
+												color:white;
+												text-decoration:none;
+											}
+
+				#contactus
+						 {
+								background-color:#333544;
+								color:#c0c0c0;
+								border:1px solid #c0c0c0;
+								border-radius:3px;
+								height:35px;
+								width:90px;
+								float:right;
+								margin-right:30px;
+								text-align:center;
+								margin-top:10px;
+								text-decoration:none;
+							}
+
+							#contactus a
+									{
+										color:#c0c0c0;
+										text-decoration:none;
+									}
+
+							#contactus :hover
+									{
+										color:white;
+									}
+
+
+
+						.subheader
+								{
+							background-color:#1f2533;
+							height:28px;
+							width:100%;
+								}
+
+
+
+body
+		{
+			margin: 0;
+			background-color:white;
+			overflow:auto;
+
+		}
+.backcolour{
+
+	background-color:#3686bd;
+
+}
+
+#productheader
+	{
+
+			font-size:25px;
+			font-family:Hoefler Text;
+			color:#4d8ab1;
+			padding-left:15px;
+			display: inline-block;
+			padding-top: 20px;
+	}
+
+.cointainer{
+	background-color: white;
+	width:100%;
+	height: 1000px;
+	margin-left: 0px;
+	margin-right: 0px;
+	display: inline-block;
+	border-radius: 5px;
+	border:0px solid black;
+	overflow: hidden;
+
+}
+
+
+
+.cointainer h3{
+	color: #7a7a7a;
+}
+
+.dropdown{
+	width:300px;
+	height:35px;
+	margin-left: 30px;
+	font-size: 18px;
+}
+
+h3{
+	margin-left: 30px;
+}
+
+.name{
+		height: 30px;
+		width:400px;
+		margin-left: 30px;
+		font-size: 15px;
+		padding-left: 10px;
+}
+.year{
+		height: 30px;
+		width:200px;
+		margin-left: 30px;
+		font-size: 15px;
+		padding-left: 10px;
+}
+
+.price{
+		height: 30px;
+		width:200px;
+		margin-left: 30px;
+		font-size: 15px;
+		padding-left: 10px;
+}
+
+.description{
+		height: 170px;
+		width:350px;
+		margin-left: 30px;
+		font-size: 15px;
+		padding-left: 10px;
+		overflow: hidden;
+		padding-top: -40px;
+}
+
+.imagesblock{
+
+			height: 170px;
+			width:600px;
+			margin-left: 30px;
+			font-size: 20px;
+			padding-top: -40px;
+			border:
+
+
+}
+
+.imagecoin{
+	height: 40px;
+
+}
+
+.button{
+
+						height:60px;
+						display: inline-block;
+						width:130px;
+						color:white;
+						font-size: 20px;
+						background-color:#4d8ab1;
+						border-top-left-radius:7px;
+						border-bottom-right-radius:7px;
+						margin-top: auto;
+						margin-left: 30px;
+}
+
+
+
+ }
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+				.topheader
+										{
+											background-color:#333544;
+											height:60px;
+											width:100%;
+										}
+
+						 #homebtn
+										{
+											background-color:#333544;
+											color:#c0c0c0;
+											border:1px solid #c0c0c0;
+											border-radius:3px;
+											height:35px;
+											width:90px;
+											float:right;
+											margin-right:40px;
+											text-align:center;
+											margin-top:10px;
+											text-decoration:none;
+
+										}
+
+										#homebtn a
+														{
+															color:#c0c0c0;
+															text-decoration:none;
+														}
+
+										#homebtn :hover
+														{
+															color:white;
+															text-decoration:none;
+														}
+
+							#contactus
+									 {
+											background-color:#333544;
+											color:#c0c0c0;
+											border:1px solid #c0c0c0;
+											border-radius:3px;
+											height:35px;
+											width:90px;
+											float:right;
+											margin-right:30px;
+											text-align:center;
+											margin-top:10px;
+											text-decoration:none;
+										}
+
+										#contactus a
+												{
+													color:#c0c0c0;
+													text-decoration:none;
+												}
+
+										#contactus :hover
+												{
+													color:white;
+												}
+
+
+
+									.subheader
+											{
+										background-color:#1f2533;
+										height:28px;
+										width:100%;
+											}
+
+
+
+			body
+			    {
+			      margin: 0;
+			      background-color:white;
+			      overflow:auto;
+
+			    }
+			.backcolour{
+
+			  background-color:#3686bd;
+				height: 1000px;
+			}
+
+			#productheader
+			  {
+
+			      font-size:25px;
+			      font-family:Hoefler Text;
+			      color:#4d8ab1;
+			      padding-left:35px;
+			      display: inline-block;
+			      padding-top: 20px;
+			  }
+
+			.cointainer{
+			  background-color: white;
+			  width:100%;
+			  height: 1000px;
+			  margin-left:0px;
+				margin-right: 10px;
+				display: inline-block;
+			  border-radius: 5px;
+			  border:0px solid black;
+				overflow: hidden;
+
+			}
+
+
+			.cointainer h3{
+				color: #7a7a7a;
+			}
+
+			.dropdown{
+			  width:500px;
+			  height:35px;
+			  margin-left: 30px;
+			  font-size: 18px;
+			}
+
+			h3{
+			  margin-left: 30px;
+			}
+
+			.name{
+			    height: 30px;
+			    width:400px;
+			    margin-left: 30px;
+			    font-size: 15px;
+			    padding-left: 10px;
+			}
+			.year{
+			    height: 30px;
+			    width:200px;
+			    margin-left: 30px;
+			    font-size: 15px;
+			    padding-left: 10px;
+			}
+
+			.price{
+			    height: 30px;
+			    width:200px;
+			    margin-left: 30px;
+			    font-size: 15px;
+			    padding-left: 10px;
+			}
+
+			.description{
+			    height: 170px;
+			    width:500px;
+			    margin-left: 30px;
+			    font-size: 15px;
+			    padding-left: 10px;
+			    overflow: hidden;
+			    padding-top: -40px;
+			}
+
+			.imagesblock{
+
+			      height: 170px;
+			      width:600px;
+			      margin-left: 30px;
+			      font-size: 20px;
+			      padding-top: -40px;
+			      border:
+
+
+			}
+
+			.imagecoin{
+			  height: 40px;
+
+			}
+
+			.button{
+
+			  					height:60px;
+			  					display: inline-block;
+			  					width:130px;
+			  					color:white;
+			  					font-size: 20px;
+			  					background-color:#4d8ab1;
+			  					border-top-left-radius:7px;
+			  					border-bottom-right-radius:7px;
+			  					margin-top: auto;
+			            margin-left: 30px;
+			}
+
+
+
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.topheader
+							{
+								background-color:#333544;
+								height:60px;
+								width:100%;
+							}
+
+			 #homebtn
+							{
+								background-color:#333544;
+								color:#c0c0c0;
+								border:1px solid #c0c0c0;
+								border-radius:3px;
+								height:35px;
+								width:90px;
+								float:right;
+								margin-right:40px;
+								text-align:center;
+								margin-top:10px;
+								text-decoration:none;
+
+							}
+
+							#homebtn a
+											{
+												color:#c0c0c0;
+												text-decoration:none;
+											}
+
+							#homebtn :hover
+											{
+												color:white;
+												text-decoration:none;
+											}
+
+				#contactus
+						 {
+								background-color:#333544;
+								color:#c0c0c0;
+								border:1px solid #c0c0c0;
+								border-radius:3px;
+								height:35px;
+								width:90px;
+								float:right;
+								margin-right:30px;
+								text-align:center;
+								margin-top:10px;
+								text-decoration:none;
+							}
+
+							#contactus a
+									{
+										color:#c0c0c0;
+										text-decoration:none;
+									}
+
+							#contactus :hover
+									{
+										color:white;
+									}
+
+
+
+						.subheader
+								{
+							background-color:#1f2533;
+							height:28px;
+							width:100%;
+								}
+
+
+
+body
+		{
+			margin: 0;
+			background-color:white;
+			overflow:auto;
+
+		}
+.backcolour{
+
+	background-color:#dbdad5;
+	height: 1000px;
+}
+
+#productheader
+	{
+
+			font-size:25px;
+			font-family:Hoefler Text;
+			color:#4d8ab1;
+			padding-left:35px;
+			display: inline-block;
+			padding-top: 20px;
+	}
+
+.cointainer{
+	background-color: white;
+	width:610px;
+	height: 1000px;
+	margin-left: 100px;
+	margin-right: 100px;
+	display: inline-block;
+	border-radius: 5px;
+	border:0px solid black;
+	overflow: hidden;
+
+}
+
+.cointainer h3{
+	color: #7a7a7a;
+}
+
+.dropdown{
+	width:500px;
+	height:35px;
+	margin-left: 30px;
+	font-size: 18px;
+}
+
+h3{
+	margin-left: 30px;
+}
+
+.name{
+		height: 30px;
+		width:400px;
+		margin-left: 30px;
+		font-size: 15px;
+		padding-left: 10px;
+}
+.year{
+		height: 30px;
+		width:200px;
+		margin-left: 30px;
+		font-size: 15px;
+		padding-left: 10px;
+}
+
+.price{
+		height: 30px;
+		width:200px;
+		margin-left: 30px;
+		font-size: 15px;
+		padding-left: 10px;
+}
+
+.description{
+		height: 170px;
+		width:500px;
+		margin-left: 30px;
+		font-size: 15px;
+		padding-left: 10px;
+		overflow: hidden;
+		padding-top:0;
+
+}
+
+.imagesblock{
+
+			height: 170px;
+			width:600px;
+			margin-left: 30px;
+			font-size: 20px;
+			padding-top: -40px;
+			border:
+
+
+}
+
+.imagecoin{
+	height: 40px;
+
+}
+
+.button{
+
+						height:60px;
+						display: inline-block;
+						width:130px;
+						color:white;
+						font-size: 20px;
+						background-color:#4d8ab1;
+						border-top-left-radius:7px;
+						border-bottom-right-radius:7px;
+						margin-top: auto;
+						margin-left: 30px;
+}
+
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+			.topheader
+									{
+										background-color:#333544;
+										height:60px;
+										width:100%;
+									}
+
+					 #homebtn
+									{
+										background-color:#333544;
+										color:#c0c0c0;
+										border:1px solid #c0c0c0;
+										border-radius:3px;
+										height:35px;
+										width:90px;
+										float:right;
+										margin-right:40px;
+										text-align:center;
+										margin-top:10px;
+										text-decoration:none;
+
+									}
+
+									#homebtn a
+													{
+														color:#c0c0c0;
+														text-decoration:none;
+													}
+
+									#homebtn :hover
+													{
+														color:white;
+														text-decoration:none;
+													}
+
+						#contactus
+								 {
+										background-color:#333544;
+										color:#c0c0c0;
+										border:1px solid #c0c0c0;
+										border-radius:3px;
+										height:35px;
+										width:90px;
+										float:right;
+										margin-right:30px;
+										text-align:center;
+										margin-top:10px;
+										text-decoration:none;
+									}
+
+									#contactus a
+											{
+												color:#c0c0c0;
+												text-decoration:none;
+											}
+
+									#contactus :hover
+											{
+												color:white;
+											}
+
+
+
+								.subheader
+										{
+									background-color:#1f2533;
+									height:28px;
+									width:100%;
+										}
+
+
+
+		body
+		    {
+		      margin: 0;
+		      background-color:white;
+		      overflow:auto;
+
+		    }
+		.backcolour{
+
+			background-color:#dbdad5;
+			height: 1000px;
+		}
+
+		#productheader
+		  {
+
+		      font-size:25px;
+		      font-family:Hoefler Text;
+		      color:#4d8ab1;
+		      padding-left:35px;
+		      display: inline-block;
+		      padding-top: 20px;
+		  }
+
+		.cointainer{
+		  background-color: white;
+		  width:800px;
+		  height: 1000px;
+		  margin-left: 150px;
+			margin-right: 150px;
+			display: inline-block;
+		  border-radius: 5px;
+		  border:0px solid black;
+			overflow: hidden;
+
+		}
+
+			.cointainer h3{
+			         				color:#7a7a7a;
+							    			}
+
+		.dropdown{
+		  width:500px;
+		  height:35px;
+		  margin-left: 30px;
+		  font-size: 18px;
+		}
+
+		h3{
+		  margin-left: 30px;
+		}
+
+		.name{
+		    height: 30px;
+		    width:400px;
+		    margin-left: 30px;
+		    font-size: 15px;
+		    padding-left: 10px;
+		}
+		.year{
+		    height: 30px;
+		    width:200px;
+		    margin-left: 30px;
+		    font-size: 15px;
+		    padding-left: 10px;
+		}
+
+		.price{
+		    height: 30px;
+		    width:200px;
+		    margin-left: 30px;
+		    font-size: 15px;
+		    padding-left: 10px;
+		}
+
+		.description{
+		    height: 170px;
+		    width:600px;
+		    margin-left: 30px;
+		    font-size: 15px;
+		    padding-left: 10px;
+		    overflow: hidden;
+		    padding-top: -40px;
+		}
+
+		.imagesblock{
+
+		      height: 170px;
+		      width:600px;
+		      margin-left: 30px;
+		      font-size: 20px;
+		      padding-top: -40px;
+		      border:
+
+
+		}
+
+		.imagecoin{
+		  height: 40px;
+
+		}
+
+		.button{
+
+		  					height:60px;
+		  					display: inline-block;
+		  					width:130px;
+		  					color:white;
+		  					font-size: 20px;
+		  					background-color:#4d8ab1;
+		  					border-top-left-radius:7px;
+		  					border-bottom-right-radius:7px;
+		  					margin-top: auto;
+		            margin-left: 30px;
+		}
+
+
+
+}
+
+@media (min-width: 1200px) {
+
+		.topheader
+								{
+									background-color:#333544;
+									height:60px;
+									width:100%;
+								}
+
+				 #homebtn
+								{
+									background-color:#333544;
+									color:#c0c0c0;
+									border:1px solid #c0c0c0;
+									border-radius:3px;
+									height:35px;
+									width:90px;
+									float:right;
+									margin-right:40px;
+									text-align:center;
+									margin-top:10px;
+									text-decoration:none;
+
+								}
+
+								#homebtn a
+												{
+													color:#c0c0c0;
+													text-decoration:none;
+												}
+
+								#homebtn :hover
+												{
+													color:white;
+													text-decoration:none;
+												}
+
+					#contactus
+							 {
+									background-color:#333544;
+									color:#c0c0c0;
+									border:1px solid #c0c0c0;
+									border-radius:3px;
+									height:35px;
+									width:90px;
+									float:right;
+									margin-right:30px;
+									text-align:center;
+									margin-top:10px;
+									text-decoration:none;
+								}
+
+								#contactus a
+										{
+											color:#c0c0c0;
+											text-decoration:none;
+										}
+
+								#contactus :hover
+										{
+											color:white;
+										}
+
+
+
+							.subheader
+									{
+								background-color:#1f2533;
+								height:28px;
+								width:100%;
+									}
+
+
+
+	body
+	    {
+	      margin: 0;
+	      background-color:white;
+	      overflow:auto;
+
+	    }
+	.backcolour{
+
+			background-color:#dbdad5;
+		height: 1000px;
+	}
+
+	#productheader
+	  {
+
+	      font-size:25px;
+	      font-family:Hoefler Text;
+	      color:#4d8ab1;
+	      padding-left:35px;
+	      display: inline-block;
+	      padding-top: 20px;
+	  }
+
+	.cointainer{
+	  background-color: white;
+	  width:800px;
+	  height: 1000px;
+	  margin-left: 300px;
+	  display: inline-block;
+	  border-radius: 5px;
+	  border:0px solid black;
+		overflow: hidden;
+
+	}
+
+	.cointainer h3{
+	         				color:#7a7a7a;
+					    			}
+
+	.dropdown{
+	  width:500px;
+	  height:35px;
+	  margin-left: 30px;
+	  font-size: 17px;
+	}
+
+	h3{
+	  margin-left: 30px;
+	}
+
+	.name{
+	    height: 30px;
+	    width:400px;
+	    margin-left: 30px;
+	    font-size: 15px;
+	    padding-left: 10px;
+	}
+	.year{
+	    height: 30px;
+	    width:200px;
+	    margin-left: 30px;
+	    font-size: 15px;
+	    padding-left: 10px;
+	}
+
+	.price{
+	    height: 30px;
+	    width:200px;
+	    margin-left: 30px;
+	    font-size: 15px;
+	    padding-left: 10px;
+	}
+
+	.description{
+	    height: 170px;
+	    width:600px;
+	    margin-left: 30px;
+	    font-size: 15px;
+	    padding-left: 10px;
+	    overflow: hidden;
+	    padding-top: -40px;
+	}
+
+	.imagesblock{
+
+	      height: 170px;
+	      width:600px;
+	      margin-left: 30px;
+	      font-size: 20px;
+	      padding-top: -40px;
+	      border:
+
+
+	}
+
+	.imagecoin{
+	  height: 40px;
+
+	}
+
+	.button{
+
+	  					height:60px;
+	  					display: inline-block;
+	  					width:130px;
+	  					color:white;
+	  					font-size: 20px;
+	  					background-color:#4d8ab1;
+	  					border-top-left-radius:7px;
+	  					border-bottom-right-radius:7px;
+	  					margin-top: auto;
+	            margin-left: 30px;
+	}
+
+
+}
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

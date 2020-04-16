@@ -1,0 +1,11 @@
+body{
+	background-color:white;
+}
+
+.addfiles{
+  height:50px;
+  width:150px;
+  background-color: blue;
+  color:white;
+  font-size: 25px;
+}
